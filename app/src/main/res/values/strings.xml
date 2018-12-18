@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">A1-CPSC411-Fall-2017</string>
+    <string name="nominalString">Nominal Estimate: </string>
+    <string name="optimisticString">Optimistic Estimate: </string>
+    <string name="pessimisticString">Pessimistic Estimate:</string>
+    <string name="meanString">Mean:</string>
+    <string name="stdDevString">Std. Deviation:</string>
+</resources>
